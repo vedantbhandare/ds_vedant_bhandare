@@ -25,7 +25,17 @@ ds_vedant_bhandare/
 - Upload the CSV files from `csv_files/`
 - Run the notebook top-to-bottom
 
+## Dataset Access
+Due to GitHub file size limits, the full historical trading dataset is not
+stored in this repository.
+
+The dataset can be accessed from the original source:
+https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view
+
+The Fear & Greed Index dataset is included in the `csv_files/` folder.
+
 ## Tools Used
 Python, Pandas, NumPy, Matplotlib, Seaborn
+
 
 
